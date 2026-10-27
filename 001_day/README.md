@@ -13,5 +13,4 @@
 - **Énoncé** : étant donné un tableau d'entiers `nums` et un entier `target`, retourne les indices des deux éléments dont la somme vaut `target`. Chaque entrée a exactement une solution, et un même élément ne peut pas être utilisé deux fois.
 - **Exemple** : `nums = [2, 7, 11, 15]`, `target = 9` → `[0, 1]`.
 - **Contraintes** : `2 <= nums.length <= 10^4`, valeurs comprises entre `-10^9` et `10^9`, une seule solution.
-- **À pratiquer** : parcours unique avec une table de hachage valeur → indice, au lieu d'une double boucle.
 
